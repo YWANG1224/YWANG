@@ -6,8 +6,8 @@ highlighter: rouge
 title: YAN WANG
 email: y.wang149@lse.ac.uk
 description: 
-baseurl: "/ywang" # the subpath of your site, e.g. /blog
-url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
+#baseurl: "/ywang" # the subpath of your site, e.g. /blog
+url: https://ywangsoc.com # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ywang1224
 github_username:  ywang1224
 
