@@ -17,9 +17,7 @@ description: teaching
 
 ### <a name="current"></a>Current courses
 
-- [Data for Data Scientists (MY 472/572, Fall 2020)](https://lse-my472.github.io/)
-
-- Fundamentals of Social Science Research Design (MY400, Fall 2020)
+- Applied Regression Analysis (MY452, Fall 2020)
 
 ---
 
