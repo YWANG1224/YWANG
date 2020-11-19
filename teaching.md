@@ -31,9 +31,9 @@ description: teaching
 
 ### <a name="old"></a>Former courses
 
-- [Quantitative Text Analysis (MY459/559, Spring 2020)](https://lse-my459.github.io/)
+- [Quantitative Text Analysis (MY459, Spring 2020)](https://lse-my459.github.io/)
 
-- Causal Inference for Observational and Experimental Studies (MY457/557, Spring 2020, 2019)
+- Causal Inference for Observational and Experimental Studies (MY457, Spring 2020, 2019)
 
 - Data in Society: Researching Social Life (SO102, Spring 2020)
 
