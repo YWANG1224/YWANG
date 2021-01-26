@@ -21,7 +21,7 @@ description: teaching
 
 - Computer Programming (MY470, MT 2020-2021, Marking only)
 
-- [Quantitative Text Analysis (MY459, LT 2019-2020, 2020-2021)](https://lse-my459.github.io/)
+- [Quantitative Text Analysis (MY459, LT 2020-2021, 2019-2020)](https://lse-my459.github.io/)
 
 
 ---
