@@ -39,7 +39,7 @@ description: teaching
 
 - Causal Inference for Observational and Experimental Studies (MY457, LT 2019-2020, 2018-2019)
 
-- Data in Society: Researching Social Life (SO102, LT 2019-2020)
+- Data in Society: Researching Social Life (SO102, 2019-2020)
 
 - Intermediate Quantitative Analysis (MY465, MT 2019-2020)
 
