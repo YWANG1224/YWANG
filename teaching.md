@@ -17,30 +17,34 @@ description: teaching
 
 ### <a name="current"></a>Current courses
 
-- Applied Regression Analysis (MY452, Fall 2020)
+- Applied Regression Analysis (MY452, MT 2020-2021)
 
-- Computer Programming (MY470, Fall 2020, Marking only)
+- Computer Programming (MY470, MT 2020-2021, Marking only)
+
+- [Quantitative Text Analysis (MY459, LT 2019-2020, 2020-2021)](https://lse-my459.github.io/)
 
 
 ---
 
 ### <a name="shortcourses"></a>Short courses
 
----
+- Machine Learning (MY560, ST 2020-2021)
 
+- Using Dictionaries for Text Analysis (MY560, ST 2020-2021)
+
+
+---
 
 ### <a name="old"></a>Former courses
 
-- [Quantitative Text Analysis (MY459, Spring 2020)](https://lse-my459.github.io/)
+- Causal Inference for Observational and Experimental Studies (MY457, LT 2019-2020, 2018-2019)
 
-- Causal Inference for Observational and Experimental Studies (MY457, Spring 2020, 2019)
+- Data in Society: Researching Social Life (SO102, LT 2019-2020)
 
-- Data in Society: Researching Social Life (SO102, Spring 2020)
+- Intermediate Quantitative Analysis (MY465, MT 2019-2020)
 
-- Intermediate Quantitative Analysis (MY465, Fall 2019)
+- [Introduction to Quantitative Methods (PUBL0055, MT 2019-2020 at UCL)](https://uclspp.github.io/PUBL0055/index.html)
 
-- [Introduction to Quantitative Methods (PUBL0055, Fall 2019 at UCL)](https://uclspp.github.io/PUBL0055/index.html)
-
-- Introduction to Quantitative Analysis (MY451, Fall 2017, Spring 2018)
+- Introduction to Quantitative Analysis (MY451, MT 2017-2018, LT 2017-2018)
 
 
