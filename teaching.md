@@ -32,6 +32,8 @@ description: teaching
 
 - Using Dictionaries for Text Analysis (MY560, ST 2020-2021)
 
+- Regression Discontinuity Designs (MY560, ST 2020-2021)
+
 
 ---
 
