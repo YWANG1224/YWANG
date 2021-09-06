@@ -37,3 +37,10 @@ description: research
 ### <a name="thesis"></a>Dissertation
 
 - **Yan WANG** (2020) Social policy, state legitimacy and strategic actors: governmentality and counter-conduct in authoritarian regime. PhD thesis, The London School of Economics and Political Science (LSE).[![Abstract](assets/icons16/pubmed-icon.png)](http://etheses.lse.ac.uk/4111/)
+
+
+### <a name="workingpaper"></a>Research Grants
+
+- 2021-2023 Small Research Grants (Co-PI), British Academy, £9886.
+- 2020-2021 Research Infrastructure and Investment Fund (RIIF), LSE Methodology, £1500
+
