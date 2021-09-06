@@ -4,10 +4,8 @@ title: About
 description: 
 ---
 
-Yan is a LSE fellow in the
-[Department of Methodology](https://www.lse.ac.uk/methodology)
-at the [London School of Economics and Political Science](https://www.lse.ac.uk/);
-research in social policy, authoritarian politics, and digital governance.
+Yan is a Research Fellow at [School of Public Policy](https://www.lse.ac.uk/school-of-public-policy) at the [London School of Economics and Political Science](https://www.lse.ac.uk/). Before she was a LSE fellow in the
+[Department of Methodology](https://www.lse.ac.uk/methodology); research in social policy, authoritarian politics, and digital governance.
 
 Yan received a BS in Sociology and a MA in Management, from the
 [Tsinghua University](https://www.tsinghua.edu.cn/en/), and a
