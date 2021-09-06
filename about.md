@@ -26,7 +26,7 @@ Orcid: [0000-0003-3214-4271](https://orcid.org/0000-0003-3214-4271)<br/>
     <div class="row-fluid">
         <div class="span5">
             Yan Wang<br/>
-            Department of Methodology<br/>
+            School of Public Policy<br/>
             London School of Economics and Political Science<br/>
             Houghton Street<br/>
             London WC2A 2AE<br/>
