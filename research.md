@@ -34,10 +34,11 @@ description: research
 
 ---
 
-### <a name="thesis"></a>Dissertation
+### <a name="thesis"></a>Dissertation (Book under contract)
 
 - **Yan WANG** (2020) Social policy, state legitimacy and strategic actors: governmentality and counter-conduct in authoritarian regime. PhD thesis, The London School of Economics and Political Science (LSE).[![Abstract](assets/icons16/pubmed-icon.png)](http://etheses.lse.ac.uk/4111/)
 
+---
 
 ### <a name="workingpaper"></a>Research Grants
 
