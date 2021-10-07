@@ -9,6 +9,7 @@ description: research
         <ul class="nav">
             <!--li><a href="#articles">Articles</a></li-->
             <li><a href="#workingpaper">Working Papers</a></li>
+            <li><a href="#workinprogress">Work in Progress</a></li>
             <li><a href="#book">Book</a></li>
             <li><a href="#grants">Research Grants</a></li>
         </ul>
@@ -36,6 +37,14 @@ description: research
 - **Yan WANG**. Pragmatism or politicism:  Local officials’ decisionmaking in policy experimentation. Working Paper
 
 >  Abstract: It has been widely recognised that local bureaucrats are crucial actors in policy process. In policy experimentation — a popular policy instrument that heavily rely on negotiation and interaction between different sectors, they are main actors that initiate the experimentplan, propose policy innovation, and implement the pilot schemes. Then when would they decide to participate in the policy experiments, and why would they prefer some schemes rather than others?  In this research we conduct an unique conjoint experiment with local officials who are in charge of county - level administrative units in China, investigate their rationale  and  attention  allocation  on  pilot  scheme  preference. The result shows that local officials are practical than political in deciding the preferred  pilot scheme — they value more about the financial support, local condition and risk environment, while the political load of the pilot scheme have less variations in changing their preference.  More importantly, such pattern is consistent across different administrative types and regional subgroups of local officials.
+
+
+---
+
+### <a name="book"></a>Dissertation (Book under contract)
+
+- Estimating Bureaucrats' Agency: A Semi- Big Data Approach
+- Equalization of Urban-Rural Social Welfare in a Comparative Perspective
 
 ---
 
