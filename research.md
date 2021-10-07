@@ -41,7 +41,7 @@ description: research
 
 ---
 
-### <a name="book"></a>Dissertation (Book under contract)
+### <a name="workinprogress"></a>Work in Progress
 
 - Estimating Bureaucrats' Agency: A Semi- Big Data Approach
 - Equalization of Urban-Rural Social Welfare in a Comparative Perspective
