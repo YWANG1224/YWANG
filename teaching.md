@@ -15,18 +15,14 @@ description: teaching
 </div>
 
 
-### <a name="current"></a>Current courses
+### <a name="current"></a>Current courses as Lecturer
 
-- Applied Regression Analysis (MY452, MT 2020-2021)
-
-- Computer Programming (MY470, MT 2020-2021, Marking only)
-
-- [Quantitative Text Analysis (MY459, LT 2020-2021, 2019-2020)](https://lse-my459.github.io/)
+- Introduction to Quantitative Methods for the MPA Programme (PP408, 2021-2022)
 
 
 ---
 
-### <a name="shortcourses"></a>Short courses
+### <a name="shortcourses"></a>Short courses as Lecturer
 
 - Machine Learning (MY560, ST 2020-2021)
 
@@ -37,7 +33,13 @@ description: teaching
 
 ---
 
-### <a name="old"></a>Former courses
+### <a name="old"></a>Former courses as Teaching Assistant
+
+- Applied Regression Analysis (MY452, MT 2020-2021)
+
+- Computer Programming (MY470, MT 2020-2021, Marking only)
+
+- [Quantitative Text Analysis (MY459, LT 2020-2021, 2019-2020)](https://lse-my459.github.io/)
 
 - Causal Inference for Observational and Experimental Studies (MY457, LT 2019-2020, 2018-2019)
 
