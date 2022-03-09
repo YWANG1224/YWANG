@@ -9,6 +9,7 @@ description: research
         <ul class="nav">
             <li><a href="#book">Book</a></li>
             <li><a href="#articles">Articles</a></li>
+            <li><a href="#bookchapters">Book Chapters</a></li>
             <li><a href="#workingpaper">Working Papers</a></li>
             <li><a href="#workinprogress">Work in Progress</a></li>
             <li><a href="#grants">Research Grants</a></li>
@@ -20,24 +21,34 @@ description: research
 
 ### <a name="book"></a>Book
 
-- **Yan WANG**. Pension policy and governmentality in China: Manufacturing public compliance. Forthcoming: *LSE Press*.
+- **Yan WANG**. Pension policy and governmentality in China: Manufacturing public compliance. 2022: *LSE Press*.
 
 ---
 
 ### <a name="articles"></a>Articles
 
-- Xiaonan WANG, **Yan WANG**. Too Cynical: How Stock Market in China Dismissed Anticorruption Signals. Forthcoming: *Journal of Chinese Political Science*.
+- Xiaonan WANG, **Yan WANG**. Too Cynical: How Stock Market in China Dismissed Anticorruption Signals. 2022: *Journal of Chinese Political Science*.
 
 >  Abstract: Political leaders in China regularly launch anti-corruption campaigns to restore enforce-ment credibility and win public support.  However, are these high-profile campaignsperceivedassincere or symbolic by the public?  In the case of Xi Jinping’s anti-corruption campaign, we findthat such a sensational and largely genuine anti-corruption effort was not initially taken seriouslyby the stock market, a sensitive public barometer to changing political events.  Using the eventstudy with a most-likely case design, we find that anti-corruption speeches and early crackdownsdid not decrease the stock prices of the firms whose connected officials were later investigated.We  further  argue  that  the  high  costs  of  following  through  and  repeated  campaigns  in  the  pastparadoxically nurtured cynicism.  By exploring the heterogeneous effects of factional links,  weprovide evidence that the stock market initiallyperceivedthe campaign only as a power struggleand misinterpreted the crackdowns on senior officials as signs of the campaign starting to slowdown.  Our findings reveal an inherent dilemma of campaign-style enforcement that could hinderits effectiveness in restoring enforcement credibility and winning public support.
 
+
+### <a name="bookchapters"></a>Book Chapters
+
+- **Yan WANG**, Yuxi Zhang. Contesting for Consensus: Social sentiment towards fellow citizens’ COVID-related behavior in China. forthcoming: in Book *”Pandemic Narratives in China and the World: Technology, Society, and Nations”*, edited by Bingchun Meng, Guobin Yang, and Elaine Yuan.
+
+>  Abstract: COVID-19 has shifted how citizens interact profoundly. Private life is frequently dis- played in the public space and individuals are held to account should their exercise of liberty enlarges COVID-19 transmission risks. We are interested in the evolving dynam- ics among fellow citizens, especially when and how individuals react to others’ COVID-19 related actions and behavior. An extensive data set of Sina Weibo posts consisting of more than four million COVID-19 related posts provides us with a lens to answer the questions. By estimating the general sentiment of Weibo posts from January to Decem- ber 2020, as well as two in-depth case studies, we capture the information flows and discussion volumes in the public space. Combining the machine learning approach with discourse analysis, we find that the psycho-social cycle model identified in past public health emergencies and other societies during the COVID-19 pandemic also occurred in China, although demonstrating unique timing and sequence characteristics that are linked to China’s epidemic situation and policies. The all-society solidarity built at the begin- ning of 2020 was later challenged, and potentially eroded by the process of moralizing fellow citizens’ COVID-related behavior via blaming, discriminating, and scapegoating. As society lives under the pandemic for longer, fellow citizens have become more aware of problems associated with unbounded public scrutiny of private life. Such awareness and reflection, herein, encourages discussion and consensus building efforts.
 
 ---
 
 ### <a name="workingpaper"></a>Working Papers
 
-- **Yan WANG**. Who is entitled and who deserves: Governmentality in welfare policies. Under review.
+- **Yan WANG**. Building deservingness and fairness: how Chinese state crafts the social legitimacy of its new welfare schemes. R&R.
 
-> Abstract: How does policy design serve an authority that is experiencing tremendous social and economic change, and contribute to the legitimacy maintenance of a transitional state? I take the pension reform in China as an example, collect statistical data of benefit distribution from1950s to the 2010s, and text data of corresponding policy and official propaganda from 1978-2008 to answer these questions. My study argues that, the segmented resource allocation in China’s social welfare reform has favoured the core elites, while it distributed limited fiscal capacity to the social groups which cost least per person. The persuasion that attempted to shape public opinion and expectation produces intentional truth and knowledge about pension benefits, responsibility and accountability allocation, and constructed the image of deserving ones and undeserving ones.
+> Abstract: Among the sources that shape people’s idea of ‘who gets what and why’ in social welfare, what is the state's role and what actions might it take to construct public knowledge of the welfare benefits and targeted groups involved to help promote changes in welfare policies? This article takes the pension reform in China in the 1990s and 2000s as an example, uses text data on corresponding policies and propaganda to investigate how the Chinese state framed and legitimised its then-new welfare distribution policies. The results from Quantitative Text Analysis of official discourse demonstrate that, the rationale of reconstructing public knowledge and expectations of the redistribution of pension benefits, and the allocation of welfare responsibility between the state and individuals mainly focuses on the reiteration of the principles of: ‘contribution and rewards’, ‘rights and obligations’. It also built images of deserving and undeserving social groups by reconstructing the notion of fairness, blurring the distinction between merit and equity, and ultimately reshaping individual subjectivity as a self-regulated and self-motivated ‘socialised self’.
+
+- **Yan WANG**, Ting LUO. Politicising for Non-Politics: The ’Self-motivated’ Nationalism in China’s Idol Fandom. R&R.
+
+> Abstract: Ample studies have investigated how citizens use online space to express their opin- ions, yet less is known about how sub-cultural groups organise and manage their communities online with what political implications. In this article, we focus on one active sub-cultural group in China’s cyberspace—idol-fandom groups—and investi- gate their interaction with the state and the potential political ramifications of the interaction. We focus on the period of Covid-19 pandemic outbreak from Decem- ber 2019 to December 2020—when the pandemic emerged, spread and controlled in China. Drawing from machine learning and discourse analysis of 7,140,433 fandom posts collected from Weibo and eleven interviews with active idol-fans, we argue that the fandom culture in China is a ‘three-way traffic’ that features the interde- pendence between the fans, the idol/company, and the state. In supporting their idols, fans strategically engage in a combination of the capital game—following cap- ital instructions—and political game—seeking the recognition of the state and the mainstream culture the state dominates. Our interviews with active fans demon- strate that fans clearly recognise that nationalism—in particular the benign form of nationalism—is the default setting under the political context in China. Build- ing upon this default setting, they manoeuvre in-between the political and capital games and carefully select the nodes and frames to achieve their non-political goals.
 
 - Xufeng ZHU, **Yan WANG**. Policy experimentation as dialogue: Social policy, shared responsibility, and regime support in China. Under review.
 
