@@ -5,7 +5,7 @@ description:
 ---
 
 Yan is a Research Fellow at [School of Public Policy](https://www.lse.ac.uk/school-of-public-policy) at the [London School of Economics and Political Science](https://www.lse.ac.uk/). Before she was a LSE fellow in the
-[Department of Methodology](https://www.lse.ac.uk/methodology). Research in social policy, authoritarian politics, and digital governance.
+[Department of Methodology](https://www.lse.ac.uk/methodology). Her research seeks to understand the issues of state legitimacy, public opinion, and the redistribution of public goods. She is especially interested in how actors’ agency shapes authoritarian governmentality and the realisation of public’s social rights, and how and why public opinion changes during the state-society interactions. She is also interested in welfare equalisation in a comparative perspective, and state governance in general. 
 
 Yan received a BS in Sociology and a MA in Management, from the
 [Tsinghua University](https://www.tsinghua.edu.cn/en/), and a
