@@ -22,10 +22,10 @@ description: research
 ### <a name="book"></a>Book
 
 - **Yan WANG**. Pension policy and governmentality in China: Manufacturing public compliance. 2022. *LSE Press*.
-<details>
-  <summary>Book Blurb</summary>
-How does the Chinese state maintain compliance from the governed in periods of rapid social and economic transformation? The case of pension reform investigated in this book demonstrates that the Chinese state works through benefit allocation, propaganda, experimentation with policy and many other approaches, in order to shape public expectations and justify its rule.
-</details>
+    <details>
+      <summary>Book Blurb</summary>
+    How does the Chinese state maintain compliance from the governed in periods of rapid social and economic transformation? The case of pension reform investigated in this book demonstrates that the Chinese state works through benefit allocation, propaganda, experimentation with policy and many other approaches, in order to shape public expectations and justify its rule.
+    </details>
 
 ---
 
