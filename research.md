@@ -31,7 +31,7 @@ How does the Chinese state maintain compliance from the governed in periods of r
 
 ### <a name="articles"></a>Articles
 
-- Xiaonan WANG, **Yan WANG**. Too Cynical: How Stock Market in China Dismissed Anticorruption Signals. 2022. *Journal of Chinese Political Science*. http://eprints.lse.ac.uk/113696/
+- Xiaonan WANG, **Yan WANG**. Too Cynical: How Stock Market in China Dismissed Anticorruption Signals. 2022. *Journal of Chinese Political Science*. <a href="http://eprints.lse.ac.uk/113696/">Access here</a>
 
 <details>
   <summary>Abstract</summary>
