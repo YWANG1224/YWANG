@@ -29,10 +29,10 @@ description: research
 
 - Xiaonan WANG, **Yan WANG**. Too Cynical: How Stock Market in China Dismissed Anticorruption Signals. 2022: *Journal of Chinese Political Science*.
 
-<div class="openberkeley-collapsible-container">
-<h3 class="openberkeley-collapsible-controller">Abstract</h3>
-<div class="openberkeley-collapsible-target">
-<p>Political leaders in China regularly launch anti-corruption campaigns to restore enforce-ment credibility and win public support.  However, are these high-profile campaignsperceivedassincere or symbolic by the public?  In the case of Xi Jinping’s anti-corruption campaign, we findthat such a sensational and largely genuine anti-corruption effort was not initially taken seriouslyby the stock market, a sensitive public barometer to changing political events.  Using the eventstudy with a most-likely case design, we find that anti-corruption speeches and early crackdownsdid not decrease the stock prices of the firms whose connected officials were later investigated.We  further  argue  that  the  high  costs  of  following  through  and  repeated  campaigns  in  the  pastparadoxically nurtured cynicism.  By exploring the heterogeneous effects of factional links,  weprovide evidence that the stock market initiallyperceivedthe campaign only as a power struggleand misinterpreted the crackdowns on senior officials as signs of the campaign starting to slowdown.  Our findings reveal an inherent dilemma of campaign-style enforcement that could hinderits effectiveness in restoring enforcement credibility and winning public support.</p>
+<div class="expander">
+<h3>Abstract</h3>
+<div>
+Political leaders in China regularly launch anti-corruption campaigns to restore enforce-ment credibility and win public support.  However, are these high-profile campaignsperceivedassincere or symbolic by the public?  In the case of Xi Jinping’s anti-corruption campaign, we findthat such a sensational and largely genuine anti-corruption effort was not initially taken seriouslyby the stock market, a sensitive public barometer to changing political events.  Using the eventstudy with a most-likely case design, we find that anti-corruption speeches and early crackdownsdid not decrease the stock prices of the firms whose connected officials were later investigated.We  further  argue  that  the  high  costs  of  following  through  and  repeated  campaigns  in  the  pastparadoxically nurtured cynicism.  By exploring the heterogeneous effects of factional links,  weprovide evidence that the stock market initiallyperceivedthe campaign only as a power struggleand misinterpreted the crackdowns on senior officials as signs of the campaign starting to slowdown.  Our findings reveal an inherent dilemma of campaign-style enforcement that could hinderits effectiveness in restoring enforcement credibility and winning public support.</p>
 </div>
 </div>
 
