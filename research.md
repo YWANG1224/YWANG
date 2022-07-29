@@ -53,7 +53,7 @@ description: research
 
 ### <a name="workingpaper"></a>Working Papers
 
-- **Yan WANG**. Building deservingness and fairness: how Chinese state crafts the social legitimacy of its new welfare schemes. R&R.
+- **Yan WANG**. Building deservingness and fairness: how Chinese state crafts the social legitimacy of its new welfare schemes. Under Review.
     <details>
       <summary>Abstract</summary>
     Among the sources that shape people’s idea of ‘who gets what and why’ in social welfare, what is the state's role and what actions might it take to construct public knowledge of the welfare benefits and targeted groups involved to help promote changes in welfare policies? This article takes the pension reform in China in the 1990s and 2000s as an example, uses text data on corresponding policies and propaganda to investigate how the Chinese state framed and legitimised its then-new welfare distribution policies. The results from Quantitative Text Analysis of official discourse demonstrate that, the rationale of reconstructing public knowledge and expectations of the redistribution of pension benefits, and the allocation of welfare responsibility between the state and individuals mainly focuses on the reiteration of the principles of: ‘contribution and rewards’, ‘rights and obligations’. It also built images of deserving and undeserving social groups by reconstructing the notion of fairness, blurring the distinction between merit and equity, and ultimately reshaping individual subjectivity as a self-regulated and self-motivated ‘socialised self’.
