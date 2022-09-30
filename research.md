@@ -53,48 +53,49 @@ description: research
 
 ### <a name="workingpaper"></a>Working Papers
 
+
+- **Yan WANG**, Ting LUO. Politicising for Non-Politics: The ‘Self-motivated’ Nationalism in China’s Idol-Fandom. R&R.
+    <details>
+      <summary>Abstract</summary>
+    This article investigates an active sub-cultural group in China’s cyberspace—idol fandom groups—on their everyday activities in promoting their idols while engaging in official discourse. We focus on a year-long period, from December 2019 to December 2020, when the pandemic emerged, spread, and was controlled in China. We construct our analysis under the computational grounded theory framework with over 6 million fandom posts collected from social media platforms, and 11 in-depth interviews with active idol fans. The evidence shows that idol fans actively engage in social issues, borrow state discourse to build positive images of their idols, and engage in the nationalism discourse to achieve their goal of promoting idols. On the one hand, they demonstrate internalized compliance in the mainstream culture, value system, and the authority of the incumbent power in exercising their fan activities. On the other, fans strategically undertake a combination of the commercial logic of fans economy and data trafficking, and the political logic of seeking to secure both their idol and their community through the recognition of the state. Building upon the default setting of ‘state first’, they maneuver in-between the political and capital logics and carefully select the nodes and frames to achieve their non-political goals. 
+    </details>
+
+
 - **Yan WANG**. Building deservingness and fairness: how Chinese state crafts the social legitimacy of its new welfare schemes. Under Review.
     <details>
       <summary>Abstract</summary>
-    Among the sources that shape people’s idea of ‘who gets what and why’ in social welfare, what is the state's role and what actions might it take to construct public knowledge of the welfare benefits and targeted groups involved to help promote changes in welfare policies? This article takes the pension reform in China in the 1990s and 2000s as an example, uses text data on corresponding policies and propaganda to investigate how the Chinese state framed and legitimised its then-new welfare distribution policies. The results from Quantitative Text Analysis of official discourse demonstrate that, the rationale of reconstructing public knowledge and expectations of the redistribution of pension benefits, and the allocation of welfare responsibility between the state and individuals mainly focuses on the reiteration of the principles of: ‘contribution and rewards’, ‘rights and obligations’. It also built images of deserving and undeserving social groups by reconstructing the notion of fairness, blurring the distinction between merit and equity, and ultimately reshaping individual subjectivity as a self-regulated and self-motivated ‘socialised self’.
-    </details>
+    How do modern states legitimise and frame their redistributive social policies in communicating with society to promote policy changes? What kind of ‘structures of incentives’ are being promoted in their narratives? This article takes the pension reform in China in the 1990s and the 2000s as an example, using text data on corresponding official propaganda to investigate the Chinese state’s ideological repertories in framing and crafting the social legitimacy of its then-new pension designs. The results from Quantitative Text Analysis of official discourse demonstrate that the rationale for reconstructing public expectations of the redistribution of pension benefits and the allocation of welfare responsibility between the government and individuals mainly focuses on the reiteration of the principles of: ‘contribution and rewards’ and ‘rights and obligations.’ The state also built images of deserving and undeserving social groups by reconstructing the notion of fairness, blurring the distinction between merit and equity, and ultimately reshaping individual subjectivity as a self-regulated and self-motivated ‘socialised self’.    </details>
 
 
-- **Yan WANG**, Ting LUO. Politicising for Non-Politics: The ’Self-motivated’ Nationalism in China’s Idol Fandom. R&R.
-    <details>
-      <summary>Abstract</summary>
-    Ample studies have investigated how citizens use online space to express their opin- ions, yet less is known about how sub-cultural groups organise and manage their communities online with what political implications. In this article, we focus on one active sub-cultural group in China’s cyberspace—idol-fandom groups—and investi- gate their interaction with the state and the potential political ramifications of the interaction. We focus on the period of Covid-19 pandemic outbreak from Decem- ber 2019 to December 2020—when the pandemic emerged, spread and controlled in China. Drawing from machine learning and discourse analysis of 7,140,433 fandom posts collected from Weibo and eleven interviews with active idol-fans, we argue that the fandom culture in China is a ‘three-way traffic’ that features the interde- pendence between the fans, the idol/company, and the state. In supporting their idols, fans strategically engage in a combination of the capital game—following cap- ital instructions—and political game—seeking the recognition of the state and the mainstream culture the state dominates. Our interviews with active fans demon- strate that fans clearly recognise that nationalism—in particular the benign form of nationalism—is the default setting under the political context in China. Build- ing upon this default setting, they manoeuvre in-between the political and capital games and carefully select the nodes and frames to achieve their non-political goals.
-    </details>
-
-
-- Xufeng ZHU, **Yan WANG**. Policy experimentation as dialogue: Social policy, shared responsibility, and regime support in China. Under review.
+- Xufeng ZHU, **Yan WANG**. Policy experimentation as dialogue: Social policy, shared responsibility, and regime support in China. R&R.
     <details>
       <summary>Abstract</summary>
     Traditional wisdom on policy experimentation has mainly focused on the relations between the central and local levels. However, scholars have paid little attention to the interaction between policy experimentation and the public. We argue that policy experimentation can be adopted by decision-makers as a dialogue instrument with the public, facilitating the building of a social consensus regarding controversial policies. We evaluate the effects of the Chinese government’s efforts in promoting shared responsibility between the state and the individuals for the urban pension system with policy experimentation on public’s regime support. Evidence from two rounds of a nationwide survey conducted before and after the policy experiment indicates that the implementation of policy experiment has significantly contributed to citizens’ acceptance of individual welfare responsibility. Moreover, the image building of governmental responsibility via local official news coverage immediately consolidates political trust of residents while posing threats to government credibility in the long term.
     </details>
 
 
-- **Yan WANG**. Truth or dare: Falsification in manufactured consent. Under review.
+- **Yan WANG**. Pragmatism or politicism:  Local officials’ decisionmaking in policy experimentation. Working Paper. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4222285">Available here</a>
+    <details>
+      <summary>Abstract</summary>
+    It has been widely recognized that local bureaucrats are crucial actors in policy process. In policy experimentation—a popular policy instrument in social welfare areas—which heavily relies on negotiation and interaction between different sectors, local bureaucrats are the main actors that initiate the experiment plan, propose policy innovation, and implement the pilot schemes. Then what do they value when deciding on local social policies, and why would they prefer some policy-experiment schemes over others? In this research, we use two unique studies with survey experiments on municipal- and county-level government officials in China and investigate their rationale and attention allocation on social policy preferences, as well as their decision making on policy experiments. Our results show that although the instruction and support from the upper-level governments are as vital as the local initiatives, local officials are more practical than political in many scenarios of local social policy making, where under similar conditions they react more strongly to societal demands. This pragmatism is especially true in deciding the preferred pilot scheme—they place more value on financial support, local conditions, and risk environment, while the political load of the pilot schemes have relatively less leverage in changing their preference. More importantly, such a pattern is consistent across different administrative types and regional subgroups of local officials.
+    </details>
+
+
+- **Yan WANG**. Truth or dare: Falsification in manufactured consent. Working paper.
     <details>
       <summary>Abstract</summary>
     Despite state’s well-designed statecraft in shaping public opinions, the risks for the authorities of falsified compliance from the people are present in many post-communist countries. In this paper I ask: is the reported high compliance of the public from all kinds of survey results regarding state representations in China sincere or just falsification? If falsified, how do citizens disentangle the reported consent from their private attitudes? I combine observation and in-depth interviews to unlock the black box and explore the power relationship between state and individual by highlighting ordinary people’s subjectivity and its involution affected by the governmentality of the current authority. The data shows that, falsified compliance does exist among the Chinese regarding the current political system and the authorities, but it is a mixture of intentional falsification and cognitive dissonance. Moreover, individual’s political opinion presents a smooth transformation between the public face and the private face. The interaction between people’s personal experience and the existing cultural, historical and educational factors that have socialised their ideas deeply shapes the presentation of manufactured compliance in authoritarian regimes. 
     </details>
 
 
-- **Yan WANG**. Pragmatism or politicism:  Local officials’ decisionmaking in policy experimentation. Working Paper.
-    <details>
-      <summary>Abstract</summary>
-    It has been widely recognised that local bureaucrats are crucial actors in policy process. In policy experimentation — a popular policy instrument that heavily rely on negotiation and interaction between different sectors, they are main actors that initiate the experimentplan, propose policy innovation, and implement the pilot schemes. Then when would they decide to participate in the policy experiments, and why would they prefer some schemes rather than others?  In this research we conduct an unique conjoint experiment with local officials who are in charge of county - level administrative units in China, investigate their rationale  and  attention  allocation  on  pilot  scheme  preference. The result shows that local officials are practical than political in deciding the preferred  pilot scheme — they value more about the financial support, local condition and risk environment, while the political load of the pilot scheme have less variations in changing their preference.  More importantly, such pattern is consistent across different administrative types and regional subgroups of local officials.
-    </details>
-
 
 ---
 
 ### <a name="workinprogress"></a>Work in Progress
 
-- Estimating Bureaucrats' Agency: A Semi- Big Data Approach
-- Equalization of Urban-Rural Social Welfare in a Comparative Perspective
 - Social polarisation in cyber-space: A comparative study of China and the US
+- Pro-regime discourse
+- Public-expert dynamic
 
 
 ---
