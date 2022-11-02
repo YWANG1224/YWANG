@@ -21,7 +21,7 @@ description: research
 
 ### <a name="book"></a>Book
 
-- **Yan WANG**. Pension policy and governmentality in China: Manufacturing public compliance. 2022. *LSE Press*.
+- **Yan WANG**. Pension policy and governmentality in China: Manufacturing public compliance. 2022. *LSE Press*. <a href="https://press.lse.ac.uk/site/books/m/10.31389/lsepress.ppc/">Available here</a>
     <details>
       <summary>Book Blurb</summary>
     Economic growth is often a disruptive social process - so how has the Chinese state been able to maintain compliance from its people while at the same time pushing ahead an exceptionally rapid social and economic transformation? This book explores the question via detailed analysis of the trajectories, policy rationale, and effects of China’s pension reforms, demonstrating how statecraft shapes the ways that citizens ascribe credit and responsibility for pensions protection across themselves, the state and other actors. The book shows that China’s governmentality for manufacturing compliance is hybrid, organic, and dynamic. The targeted allocation of benefits, policy experimentation, propaganda and knowledge construction, and many other approaches are used to shape public expectations and to justify state rule. An original contribution to the study of legitimation in modern states, the analysis particularly highlights that when active counter-conduct (such as resistance) is confined, individuals may choose cognitive rebellion and falsify their public compliance.
