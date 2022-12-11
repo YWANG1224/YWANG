@@ -4,7 +4,7 @@ exclude: [".rvmrc", ".rbenv-version", "ReadMe.md", "Rakefile", "changelog.md", "
 highlighter: rouge
 
 title: YAN WANG
-emails: yan.wang@lancaster.ac.uk; y.wang149@lse.ac.uk
+email: yan.wang@lancaster.ac.uk
 description: 
 #baseurl: "/ywang" # the subpath of your site, e.g. /blog
 url: https://ywangsoc.com # the base hostname & protocol for your site, e.g. http://example.com
