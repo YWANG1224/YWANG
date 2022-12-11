@@ -31,10 +31,23 @@ description: research
 
 ### <a name="articles"></a>Articles
 
+
+- **Yan WANG**, Ting LUO. Politicising for Non-Politics: The ‘Self-motivated’ Nationalism in China’s Idol-Fandom. *forthcoming*. *Information, Communication, & Society*.
+    <details>
+      <summary>Abstract</summary>
+    Chinese idol fans have been identified among the main forces in cyber nationalist activisms in recent years, acting as the nationalist fans protecting the state as an idol in response to external political shocks. Their skills in acknowledging, involving, and even reinventing the image of the state and national pride in cyber nationalist activisms do not emerge in a vacuum. This article examines how idol fans involve and reinvent the nationalist discourse in their everyday fan activities – idol promotion. We focus on the pandemic in 2020 as it provides a specific social and political context that allows us to understand better the interaction between idol fans and the state in their mundane fan activities. We construct our analysis under the computational grounded theory framework with over 6 million fan posts collected from Weibo and 11 in-depth interviews with active idol fans. Our findings show that when engaging in pandemic-related discussion, idol fans actively borrowed official discourse on nationalism and strategically responded to key political and social events in their idol promotion activities. The idol images they built are not only positive but also nationalist. Therefore, they play not only the commercial logic commonly seen in the Japanese and Korean K-pop/idol culture but also the political logic propagated by the state in China.
+    </details>
+
 - Xiaonan WANG, **Yan WANG**. Too Cynical: How Stock Market in China Dismissed Anticorruption Signals. 2022. *Journal of Chinese Political Science*. <a href="http://eprints.lse.ac.uk/113696/">Available here</a>
     <details>
       <summary>Abstract</summary>
     Political leaders in China regularly launch anti-corruption campaigns to win public support. But how are anti-corruption signals perceived? We use event study to examine the case of Xi Jinping’s anti-corruption campaign – an unprecedented effort in China to fight corruption. Contrary to expectations, we find that for the firms with connected officials later investigated, the initial anti-corruption signals – speeches from the top leadership and earlier crackdowns on other senior officials – did not decrease their stock prices. We argue that the perceived high costs of following through and repeated campaigns in the past paradoxically nurtured cynicism. We exploit the case of Zhou Yongkang and Ling Jihua – the two officials who were alleged to be involved in the power struggle and whose downfall had circulated widely since 2012. We find that when the targets of earlier crackdowns were connected to Zhou or Ling, the stock prices of the firms went down only if their connected and later investigated officials were in the same faction; the stock prices of the other firms, however, went up. We interpret the results as investors’ misperceptions of the campaign in the beginning. Our findings suggest that even real efforts in campaign-style enforcement can be dismissed.
+    </details>
+
+- **Yan WANG**. Pragmatism or politicism: Local officials’ decision making in policy experimentation. Working Paper. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4222285">Available here</a>
+    <details>
+      <summary>Abstract</summary>
+    It has been widely recognized that local bureaucrats are crucial actors in policy process. In policy experimentation—a popular policy instrument in social welfare areas—which heavily relies on negotiation and interaction between different sectors, local bureaucrats are the main actors that initiate the experiment plan, propose policy innovation, and implement the pilot schemes. Then what do they value when deciding on local social policies, and why would they prefer some policy-experiment schemes over others? In this research, we use two unique studies with survey experiments on municipal- and county-level government officials in China and investigate their rationale and attention allocation on social policy preferences, as well as their decision making on policy experiments. Our results show that although the instruction and support from the upper-level governments are as vital as the local initiatives, local officials are more practical than political in many scenarios of local social policy making, where under similar conditions they react more strongly to societal demands. This pragmatism is especially true in deciding the preferred pilot scheme—they place more value on financial support, local conditions, and risk environment, while the political load of the pilot schemes have relatively less leverage in changing their preference. More importantly, such a pattern is consistent across different administrative types and regional subgroups of local officials.
     </details>
 
 
@@ -54,13 +67,6 @@ description: research
 ### <a name="workingpaper"></a>Working Papers
 
 
-- **Yan WANG**, Ting LUO. Politicising for Non-Politics: The ‘Self-motivated’ Nationalism in China’s Idol-Fandom. R&R.
-    <details>
-      <summary>Abstract</summary>
-    This article investigates an active sub-cultural group in China’s cyberspace—idol fandom groups—on their everyday activities in promoting their idols while engaging in official discourse. We focus on a year-long period, from December 2019 to December 2020, when the pandemic emerged, spread, and was controlled in China. We construct our analysis under the computational grounded theory framework with over 6 million fandom posts collected from social media platforms, and 11 in-depth interviews with active idol fans. The evidence shows that idol fans actively engage in social issues, borrow state discourse to build positive images of their idols, and engage in the nationalism discourse to achieve their goal of promoting idols. On the one hand, they demonstrate internalized compliance in the mainstream culture, value system, and the authority of the incumbent power in exercising their fan activities. On the other, fans strategically undertake a combination of the commercial logic of fans economy and data trafficking, and the political logic of seeking to secure both their idol and their community through the recognition of the state. Building upon the default setting of ‘state first’, they maneuver in-between the political and capital logics and carefully select the nodes and frames to achieve their non-political goals. 
-    </details>
-
-
 - **Yan WANG**. Building deservingness and fairness: how Chinese state crafts the social legitimacy of its new welfare schemes. Under Review.
     <details>
       <summary>Abstract</summary>
@@ -71,13 +77,6 @@ description: research
     <details>
       <summary>Abstract</summary>
     Traditional wisdom on policy experimentation has mainly focused on the relations between the central and local levels. However, scholars have paid little attention to the interaction between policy experimentation and the public. We argue that policy experimentation can be adopted by decision-makers as a dialogue instrument with the public, facilitating the building of a social consensus regarding controversial policies. We evaluate the effects of the Chinese government’s efforts in promoting shared responsibility between the state and the individuals for the urban pension system with policy experimentation on public’s regime support. Evidence from two rounds of a nationwide survey conducted before and after the policy experiment indicates that the implementation of policy experiment has significantly contributed to citizens’ acceptance of individual welfare responsibility. Moreover, the image building of governmental responsibility via local official news coverage immediately consolidates political trust of residents while posing threats to government credibility in the long term.
-    </details>
-
-
-- **Yan WANG**. Pragmatism or politicism: Local officials’ decision making in policy experimentation. Working Paper. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4222285">Available here</a>
-    <details>
-      <summary>Abstract</summary>
-    It has been widely recognized that local bureaucrats are crucial actors in policy process. In policy experimentation—a popular policy instrument in social welfare areas—which heavily relies on negotiation and interaction between different sectors, local bureaucrats are the main actors that initiate the experiment plan, propose policy innovation, and implement the pilot schemes. Then what do they value when deciding on local social policies, and why would they prefer some policy-experiment schemes over others? In this research, we use two unique studies with survey experiments on municipal- and county-level government officials in China and investigate their rationale and attention allocation on social policy preferences, as well as their decision making on policy experiments. Our results show that although the instruction and support from the upper-level governments are as vital as the local initiatives, local officials are more practical than political in many scenarios of local social policy making, where under similar conditions they react more strongly to societal demands. This pragmatism is especially true in deciding the preferred pilot scheme—they place more value on financial support, local conditions, and risk environment, while the political load of the pilot schemes have relatively less leverage in changing their preference. More importantly, such a pattern is consistent across different administrative types and regional subgroups of local officials.
     </details>
 
 
@@ -93,9 +92,9 @@ description: research
 
 ### <a name="workinprogress"></a>Work in Progress
 
-- Social polarisation in cyber-space: A comparative study of China and the US
-- Pro-regime discourse
-- Public-expert dynamic
+- Rebuild pandemic preparedness with the society: the public-expert dynamics in the UK and China
+- Pro-regime discourse, polarisation, and social sentiment in Chinese cyber-space
+- Digitized grieving and online funerals
 
 
 ---
