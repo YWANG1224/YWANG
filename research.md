@@ -32,6 +32,12 @@ description: research
 ### <a name="articles"></a>Articles
 
 
+- Xufeng ZHU, **Yan WANG**. Policy Experimentation as Communication with the Public: Social Policy, Shared Responsibility, and Regime Support in China. *forthcoming*. *The China Quarterly*.
+    <details>
+      <summary>Abstract</summary>
+    Traditional wisdom on policy experimentation has mainly focused on central-local relations. However, scholars have paid little attention to the interaction between policy experimentation and the public. We argue that policy experimentation can be adopted by decision makers as a communication instrument with the public, facilitating the building of a social consensus regarding controversial policies. We evaluate the effects of the Chinese government’s efforts in promoting shared responsibility between the state and the individuals for the urban pension system with policy experimentation on public’s regime support. Evidence from two rounds of a nationwide survey conducted before and after the policy experiment indicates that the implementation of policy experiment has significantly contributed to citizens’ acceptance of individual welfare responsibility. Moreover, the image building of governmental responsibility via official news with varied intensity across local regions immediately consolidates the political trust of residents while posing threats to government credibility in the long run.
+    </details>
+
 - **Yan WANG**, Ting LUO. Politicizing for the idol: China’s idol fandom nationalism in pandemic. 2022. *Information, Communication, & Society*. <a href="https://doi.org/10.1080/1369118X.2022.2161827">Available here</a>
     <details>
       <summary>Abstract</summary>
@@ -73,13 +79,6 @@ description: research
     How do modern states legitimise and frame their redistributive social policies in communicating with society to promote policy changes? What kind of ‘structures of incentives’ are being promoted in their narratives? This article takes the pension reform in China in the 1990s and the 2000s as an example, using text data on corresponding official propaganda to investigate the Chinese state’s ideological repertories in framing and crafting the social legitimacy of its then-new pension designs. The results from Quantitative Text Analysis of official discourse demonstrate that the rationale for reconstructing public expectations of the redistribution of pension benefits and the allocation of welfare responsibility between the government and individuals mainly focuses on the reiteration of the principles of: ‘contribution and rewards’ and ‘rights and obligations.’ The state also built images of deserving and undeserving social groups by reconstructing the notion of fairness, blurring the distinction between merit and equity, and ultimately reshaping individual subjectivity as a self-regulated and self-motivated ‘socialised self’.    </details>
 
 
-- Xufeng ZHU, **Yan WANG**. Policy experimentation as dialogue: Social policy, shared responsibility, and regime support in China. R&R.
-    <details>
-      <summary>Abstract</summary>
-    Traditional wisdom on policy experimentation has mainly focused on the relations between the central and local levels. However, scholars have paid little attention to the interaction between policy experimentation and the public. We argue that policy experimentation can be adopted by decision-makers as a dialogue instrument with the public, facilitating the building of a social consensus regarding controversial policies. We evaluate the effects of the Chinese government’s efforts in promoting shared responsibility between the state and the individuals for the urban pension system with policy experimentation on public’s regime support. Evidence from two rounds of a nationwide survey conducted before and after the policy experiment indicates that the implementation of policy experiment has significantly contributed to citizens’ acceptance of individual welfare responsibility. Moreover, the image building of governmental responsibility via local official news coverage immediately consolidates political trust of residents while posing threats to government credibility in the long term.
-    </details>
-
-
 - **Yan WANG**. Truth or dare: Falsification in manufactured consent. Working paper.
     <details>
       <summary>Abstract</summary>
@@ -87,13 +86,18 @@ description: research
     </details>
 
 
+- Ting LUO, **Yan WANG**. The art of storytelling: Pro-regime narratives on Chinese social media and the official opinion leaders. Working paper. 
+    <details>
+      <summary>Abstract</summary>
+    The Chinese government under Xi Jinping has taken an active role in shaping and leading online discussions in cyberspace in order to occupy the battlefield of online public opinion (Creemers 2017). While much is known about the strategies and tactics used by various online actors to promote pro-regime messages, we know little about how narratives are constructed in these messages. In this paper, building upon a sociological approach of narrative analysis and the narrative policy framework (Tilly, 1997; Franzosi, 1998; Boscarino 2022; Gupta, Ripberger, and Wehde 2018; Merry 2019), we identify narratives and storytelling in the pro-regime messages promoted by opinion leaders on Chinese social media platform. We drew a random sample of all Weibo verified users and collected all posts posed by them between January and May 2022, yielding a total of over three million posts by 38,068 verified users, including government accounts, organizations, enterprises, media, and influential opinion leaders. By unpacking the key topics in the corpus, we uncovered four trending topics related to four key social-economic events at the time—the Beijing Winter Olympics, the Russian invasion of Ukraine, the Shanghai Lockdown, and the chained mother likely to be a victim of human trafficking found in Jiangsu Province. Each of these events features unique scenarios—state-sponsored events, international disputes, and domestic social events—the state tends to involve influencing the public opinion. Further with modified linguistic algorithm that captures the action, the agent performing that action, and the patient being acted upon, we unravel the storytelling feature of the plots and the meaning construction of subject-object-action network. Our work shed new light on how online opinion leaders construct the narratives and stories in various scenarios, as well as the relationship between the state, platforms, and the public in discipling public opinion and constructing societal knowledge in authoritarian regimes.
+    </details>
 
 ---
 
 ### <a name="workinprogress"></a>Work in Progress
 
+- Cleavage map and the focal issues: the attitudinal divisions in cyberspace on re-distributive social welfare
 - Rebuild pandemic preparedness with the society: the public-expert dynamics in the UK and China
-- Pro-regime discourse, polarisation, and social sentiment in Chinese cyber-space
 - Digitized grieving and online funerals
 
 
@@ -101,5 +105,5 @@ description: research
 
 ### <a name="grants"></a>Research Grants
 
-- 2021-2023 Small Research Grants (Co-PI), British Academy.
+- 2021-2023 Small Research Grants (Co-I), British Academy.
 - 2020-2021 Research Infrastructure and Investment Fund (RIIF), LSE Methodology.
