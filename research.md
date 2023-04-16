@@ -74,13 +74,13 @@ description: research
 ### <a name="workingpaper"></a>Working Papers
 
 
-- **Yan WANG**. Building deservingness and fairness: how Chinese state crafts the social legitimacy of its new welfare schemes. Under Review.
+- **Yan WANG**. Building deservingness and fairness: how Chinese state crafts the social legitimacy of its new welfare schemes. R&R.
     <details>
       <summary>Abstract</summary>
     How do modern states legitimise and frame their redistributive social policies in communicating with society to promote policy changes? What kind of ‘structures of incentives’ are being promoted in their narratives? This article takes the pension reform in China in the 1990s and the 2000s as an example, using text data on corresponding official propaganda to investigate the Chinese state’s ideological repertories in framing and crafting the social legitimacy of its then-new pension designs. The results from Quantitative Text Analysis of official discourse demonstrate that the rationale for reconstructing public expectations of the redistribution of pension benefits and the allocation of welfare responsibility between the government and individuals mainly focuses on the reiteration of the principles of: ‘contribution and rewards’ and ‘rights and obligations.’ The state also built images of deserving and undeserving social groups by reconstructing the notion of fairness, blurring the distinction between merit and equity, and ultimately reshaping individual subjectivity as a self-regulated and self-motivated ‘socialised self’.    </details>
 
 
-- **Yan WANG**. Truth or dare: Falsification in manufactured consent. Working paper.
+- **Yan WANG**. Truth or dare: Falsification in manufactured consent. Under Review.
     <details>
       <summary>Abstract</summary>
     Despite state’s well-designed statecraft in shaping public opinions, the risks for the authorities of falsified compliance from the people are present in many post-communist countries. In this paper I ask: is the reported high compliance of the public from all kinds of survey results regarding state representations in China sincere or just falsification? If falsified, how do citizens disentangle the reported consent from their private attitudes? I combine observation and in-depth interviews to unlock the black box and explore the power relationship between state and individual by highlighting ordinary people’s subjectivity and its involution affected by the governmentality of the current authority. The data shows that, falsified compliance does exist among the Chinese regarding the current political system and the authorities, but it is a mixture of intentional falsification and cognitive dissonance. Moreover, individual’s political opinion presents a smooth transformation between the public face and the private face. The interaction between people’s personal experience and the existing cultural, historical and educational factors that have socialised their ideas deeply shapes the presentation of manufactured compliance in authoritarian regimes. 
