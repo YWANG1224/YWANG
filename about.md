@@ -24,10 +24,6 @@ Orcid: [0000-0003-3214-4271](https://orcid.org/0000-0003-3214-4271)<br/>
     <div class="row-fluid">
         <div class="span5">
             Yan Wang<br/>
-            Department of Sociology<br/>
-            Lancaster University<br/>
-            Bailrigg<br/>
-            Lancaster LA1 4YN<br/>
             United Kingdom<br/><br/>
         </div>
     </div>
