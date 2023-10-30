@@ -32,7 +32,7 @@ description: research
 ### <a name="articles"></a>Articles
 
 
-- Xufeng ZHU, **Yan WANG**. Policy Experimentation as Communication with the Public: Social Policy, Shared Responsibility, and Regime Support in China. *forthcoming*. *The China Quarterly*.
+- Xufeng ZHU, **Yan WANG**. Policy Experimentation as Communication with the Public: Social Policy, Shared Responsibility, and Regime Support in China. 2023. *The China Quarterly*. <a href="https://doi.org/10.1017/S0305741023001273">Available here</a>
     <details>
       <summary>Abstract</summary>
     Traditional wisdom on policy experimentation has mainly focused on central-local relations. However, scholars have paid little attention to the interaction between policy experimentation and the public. We argue that policy experimentation can be adopted by decision makers as a communication instrument with the public, facilitating the building of a social consensus regarding controversial policies. We evaluate the effects of the Chinese government’s efforts in promoting shared responsibility between the state and the individuals for the urban pension system with policy experimentation on public’s regime support. Evidence from two rounds of a nationwide survey conducted before and after the policy experiment indicates that the implementation of policy experiment has significantly contributed to citizens’ acceptance of individual welfare responsibility. Moreover, the image building of governmental responsibility via official news with varied intensity across local regions immediately consolidates the political trust of residents while posing threats to government credibility in the long run.
