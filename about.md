@@ -21,7 +21,7 @@ I received a BS in Sociology and a MA in Management, from the [Tsinghua Universi
 
     <div class="row">
         <div class="col-md-5">
-           Aa<br/>
+            Dr. Yan Wang<br/>
             Department of Social Statistics<br/>
             University of Manchester<br/>
             Oxford Rd, Manchester, M15 6GY<br/>
