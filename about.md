@@ -11,8 +11,8 @@ My research seeks to understand the issues relates to public opinion and politic
 I received a BS in Sociology and a MA in Management, from the [Tsinghua University](https://www.tsinghua.edu.cn/en/), and a PhD in [Sociology](https://www.lse.ac.uk/sociology), from the London School of Economics and Political Science.
 
 [Curriculum Vitae![CV as pdf](assets/icons16/pdf-icon.png)](assets/yw_cv.pdf)<br/>
-
 Orcid: [0000-0003-3214-4271](https://orcid.org/0000-0003-3214-4271)<br/>
+
 ---
 
 
