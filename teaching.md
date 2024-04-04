@@ -17,6 +17,10 @@ description: teaching
 
 ### <a name="current"></a>Current courses as Lecturer
 
+- Understanding Social Media Data
+  
+- Network Analysis
+  
 - Introduction to Quantitative Methods for the MPA Programme (PP408, 2021-2022, 2022-2023)
 
 
