@@ -116,5 +116,6 @@ description: research
 
 ### <a name="grants"></a>Research Grants
 
+- 2024 Small Grant (PI), University of Manchester, School of Social Sciences.
 - 2021-2023 Small Research Grants (Co-I), British Academy.
 - 2020-2021 Research Infrastructure and Investment Fund (RIIF), LSE Methodology.
