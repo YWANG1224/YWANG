@@ -78,7 +78,7 @@ description: research
 
 ### <a name="workingpaper"></a>Working Papers
 
-- Ting LUO, **Yan WANG**. The art of storytelling: Pro-regime narratives on Chinese social media and the official opinion leaders. Working paper. 
+- Ting LUO, **Yan WANG**. The art of storytelling: Pro-regime narratives on Chinese social media and the official opinion leaders. Under Review. 
     <details>
       <summary>Abstract</summary>
     The Chinese government under Xi Jinping has taken an active role in shaping and leading online discussions in cyberspace in order to occupy the battlefield of online public opinion. While much is known about the strategies and tactics used by various online actors to promote pro-regime messages, we know little about how narratives are constructed in these messages. In this paper, we propose the theoretical framework of event-based narratives and the detailed storytelling in the pro-regime messages promoted by key opinion leaders on Chinese social media platform. We drew a random sample of all Weibo verified users and collected all posts posed by them between January and May 2022, yielding a total of over three million posts by government accounts, organizations, enterprises, media, and celebrities. With linguistic algorithm that captures the action, the agent performing that action, and the patient being acted upon, we unravel the storytelling and meaning construction of subject-object-action network of four trending topics related to four key social-economic events at the time — the Beijing Winter Olympics, the Russian invasion of Ukraine, the Shanghai Lockdown, and the chained mother likely to be a victim of human trafficking found in Jiangsu Province. In each of these events the state plays varied roles of either initiative or responsive, and the tactics the state involve influencing the public opinion are distinctive. The elements, strategies, and beliefs including focusing on the rational data and positive energy in Shanghai Lockdown, wind down the public discussions and focus on the local problems in the Fengxian Events. There are also highlights of national pride and an entertaining glory in Winter Olympics, and redirect the discussions to the evil US, and rationales for Russia’s move in Russia-Ukraine war. We also present the different narratives across government, media, and celebrities’ accounts, as well as the diffusion pattern of some key narratives. Our work shed new light on how online opinion leaders construct the narratives and stories in various scenarios, as well as the relationship between the state, platforms, and the public in discipling public opinion and constructing pro-regime mainstream consensus in authoritarian regimes.
@@ -91,6 +91,12 @@ description: research
     Despite state’s well-designed statecraft in shaping public opinions, the risks for the authorities of falsified compliance from the people are present in many post-communist countries. In this paper I ask: is the reported high compliance of the public from all kinds of survey results regarding state representations in China sincere or just falsification? If falsified, how do citizens disentangle the reported consent from their private attitudes? I combine observation and in-depth interviews to unlock the black box and explore the power relationship between state and individual by highlighting ordinary people’s subjectivity and its involution affected by the governmentality of the current authority. The data shows that, falsified compliance does exist among the Chinese regarding the current political system and the authorities, but it is a mixture of intentional falsification and cognitive dissonance. Moreover, individual’s political opinion presents a smooth transformation between the public face and the private face. The interaction between people’s personal experience and the existing cultural, historical and educational factors that have socialised their ideas deeply shapes the presentation of manufactured compliance in authoritarian regimes. 
     </details>
 
+
+- Pol Rovira-Wilde, **Yan WANG**. Towards a Natural Language Processing Pipeline for Measuring Types of Issue-specific Polarisation using UK Party Manifestos. Working paper.
+    <details>
+      <summary>Abstract</summary>
+    This paper presents an NLP pipeline that measures both types of issue-specific polarisation (ideological and salience) between political parties using manifestos. Whilst current NLP methods either conflate or only measure one type of issue-specific polarisation, this study's pipeline measures both types independently, allowing one to explore the potential relationship between different types of polarisation. Furthermore, the pipeline addresses other limitations with current methods such as confounding by lexical overlap and concealing variation in polarisation across issues. To provide a framework for analysing the pipeline, its outputs are used to identify which issues are proprietal, conflictual or consensual. Using the UK Labour and Conservative parties' General Election manifestos from 2001-2024, the pipeline segments manifestos into sentence-level semantic units and then applies BERTopic so that each sentence is labelled with distinct issue topics. Issue-salience polarisation is measured by comparing normalised topic frequency, whilst ideological polarisation is measured using ManifestoBERTa embeddings and cosine dissimilarity. Results show that issues like Healthcare were consensual as they exhibited low ideological polarisation, in contrast to conflictual issues like Immigration. Additionally, the EU was especially polarised in salience during the 2010's, making it a proprietal issue despite ideological polarisation. Future enhancements could include integrating NLP tools into the pipeline that allow for a qualitative analysis of polarised issues to supplement its existing quantitative analysis. 
+    </details>
 ---
 
 ### <a name="workinprogress"></a>Work in Progress
@@ -109,14 +115,13 @@ description: research
 
 - Health communication and social media: the health shelf on Youtube
 
-- Digitized grieving and online funerals
-
 
 ---
 
 ### <a name="grants"></a>Research Grants
 
-- 2024-2025 Humanities Strategic Civic Engagement Fund (Co-I), University of Manchester
-- 2024 Small Grant (PI), University of Manchester, School of Social Sciences.
+- 2024-2025 Cathie Marsh Institute Seed Corn Fund (PI), University of Manchester.
+- 2024-2025 Humanities Strategic Civic Engagement Fund (Co-I), University of Manchester.
+- 2024 School of Social Sciences Small Grant (PI), University of Manchester.
 - 2021-2023 Small Research Grants (Co-I), British Academy.
 - 2020-2021 Research Infrastructure and Investment Fund (RIIF), LSE Methodology.
