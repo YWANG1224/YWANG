@@ -122,6 +122,6 @@ description: research
 
 - 2024-2025 Cathie Marsh Institute Seed Corn Fund (PI), University of Manchester.
 - 2024-2025 Humanities Strategic Civic Engagement Fund (Co-I), University of Manchester.
-- 2024 School of Social Sciences Small Grant (PI), University of Manchester.
+- 2023-2024 School of Social Sciences Small Grant (PI), University of Manchester.
 - 2021-2023 Small Research Grants (Co-I), British Academy.
 - 2020-2021 Research Infrastructure and Investment Fund (RIIF), LSE Methodology.
